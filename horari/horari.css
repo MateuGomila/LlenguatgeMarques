@@ -1,0 +1,14 @@
+td {
+    padding: 2px;
+    border:black 2px solid;
+    color:Black;
+    text-align: center;
+}
+th{  padding: 2px;
+    border:black 2px solid;
+    color:Black;
+
+}
+body {
+    background-color: yellow;
+}
