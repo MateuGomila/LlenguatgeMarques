@@ -10,5 +10,46 @@ th{  padding: 2px;
 
 }
 body {
-    background-color: yellow;
+    background-color: rgb(0, 0, 0);
+}
+#prog {
+    width: 190px;
+    background-color: #53b640;
+}
+#sisi {
+    width: 190px;
+    background-color: #ffa024;
+}
+#edd {
+    width: 190px;
+    background-color: #b2b2c4;
+}
+#bd {
+    width: 190px;
+    background-color: #7dfdd3;
+}
+
+#lm {
+    width: 190px;
+    background-color:#ff8e7a;
+}
+#fol {
+    width: 190px;
+    background-color: #6259e0;
+}
+#blanc {
+    background-color: #ffffff;
+}
+#index {
+    color : white;
+}
+#contenedor{
+    text-align: center;
+}
+#tabla{
+    margin: 0 auto;
+}
+#title {
+    text-align: center;
+    color: white;
 }
